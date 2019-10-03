@@ -21,7 +21,7 @@ MODELO GDRIVE DE APENAS UM LINK
 
 <item>
 <title>TITULO</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B3m7SjtlBfn1YjlCVkZsTVZ2ZXc/view?usp=drivesdk</link>
 <thumbnail>ICONE</thumbnail>
 <fanart>IMAGENS DE FUNDO</fanart>
 <info>SINOPE</info>
