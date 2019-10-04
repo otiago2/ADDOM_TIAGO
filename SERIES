@@ -1,9 +1,16 @@
-MODELO UNIVERSAL DE APENAS UM LINK
 
-<item>
-<title>Os Bibliotecários (Dublado)</title>
-<link>https://raw.githubusercontent.com/otiago2/ADDOM_TIAGO/master/OSBIBLIOTECARIOS</link>
+
+<channels>
+<channel>
+<name>Os Bibliotecários (Dublado)</name>
 <thumbnail>https://redecanais.si/player3/imgs-videos/Series/Os%20Bibliotec%C3%A1rios%20Capa.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/otiago2/ADDOM_TIAGO/master/OSBIBLIOTECARIOS</externallink>
 <fanart>https://redecanais.si/player3/imgs-videos/Series/Os%20Bibliotec%C3%A1rios%20Capa.jpg</fanart>
-<info>The Librarians</info>
-</item>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - The Librarians - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
