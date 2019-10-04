@@ -27,3 +27,13 @@
 <info>Fimes do Site Filmes Online X</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[COLOR green]MEGA FILMES HD[/COLOR]</name>
+<thumbnail>https://www.zigg.com.br/media/uploads/materias/2/4389/artigo_97ea3cfbe427df42a5f3f51588000542_megafilme_PC5ewLp.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/otiago2/ADDOM_TIAGO/master/FILMESONLINEX</externallink>
+<fanart>https://www.zigg.com.br/media/uploads/materias/2/4389/artigo_97ea3cfbe427df42a5f3f51588000542_megafilme_PC5ewLp.jpg</fanart>
+<info>Fimes do Site Mega Filmes HD</info>
+</channel>
+</channels>
