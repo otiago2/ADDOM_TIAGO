@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR green]FILMES DO GDRIVE[/COLOR]</name>
+<name>[COLOR yellow]GDRIVE[/COLOR]</name>
 <thumbnail>https://www.qinetwork.com.br/wp-content/uploads/2013/04/gdrive.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://www.qinetwork.com.br/wp-content/uploads/2013/04/gdrive.jpg</fanart>
@@ -10,7 +10,7 @@
 
 <channels>
 <channel>
-<name>[COLOR green]FILMES REDECANAIS[/COLOR]</name>
+<name>[COLOR blue]REDECANAIS[/COLOR]</name>
 <thumbnail>https://redecanais.rocks/uploads/custom-logo.png?1</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://redecanais.rocks/uploads/custom-logo.png?1</fanart>
@@ -20,7 +20,7 @@
 
 <channels>
 <channel>
-<name>[COLOR green]FILMES OUTROS SITES[/COLOR]</name>
+<name>[COLOR orange]FILMES OUTROS SITES[/COLOR]</name>
 <thumbnail>https://www.filmesonlinex2.biz/wp-content/uploads/2019/09/ddddddddddddddd-1.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/otiago2/ADDOM_TIAGO/master/FILMESOUTROSSITES</externallink>
 <fanart>https://www.filmesonlinex2.biz/wp-content/uploads/2019/09/ddddddddddddddd-1.png</fanart>
