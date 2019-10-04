@@ -1,9 +1,9 @@
 Filmes do Gdrive
 
 <item>
-<title>TITULO</title>
+<title>[COLOR yellow]A lenda de Tarzan[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B3m7SjtlBfn1YjlCVkZsTVZ2ZXc/view?usp=drivesdk</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>IMAGENS DE FUNDO</fanart>
-<info>SINOPE</info>
+<thumbnail>https://cdn.ome.lt/9bkQM21i8-3cQnVYP6CSmfq3e0E=/200x0/smart/extras/capas/TarzanPoster.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-WriEjvsJ5Jw/V6DeWyzypGI/AAAAAAAAAWM/mToLyEJtFWgpX6Hqy-EC8ESHcc5sxiHIwCK4B/s1600/The-Legend-of-Tarzan-Wallpapers.jpg</fanart>
+<info>Releitura da clássica lenda de Tarzan, na qual um pequeno garoto órfão é criado na selva, e mais tarde tenta se adaptar à vida entre os humanos. Na década de 30, Tarzan, aclimatado à vida em Londres em conjunto com sua esposa Jane, é chamado para retornar à selva onde passou a maior parte da sua vida onde servirá como um emissário do Parlamento Britânico.</info>
 </item>
