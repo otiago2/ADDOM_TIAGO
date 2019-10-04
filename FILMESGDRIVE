@@ -1,3 +1,15 @@
+MODELO COM VARIOS LINKS
+
+<item>
+<title>Toy Story 4</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1i7zrEvVpZdtmZmwhEnj7nZClYZtRIbq9/view$$lsname=[COLOR orange]HD[/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 2</link>
+<link>URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 3</link>
+<thumbnail>https://i.imgur.com/Miw8xPC.jpg</thumbnail>
+<fanart>i.imgur.com/Miw8xPC.jpg</fanart>
+<info>Woody, Buzz Lightyear e o resto da turma embarcam em uma viagem com Bonnie e um novo brinquedo chamado Forky. A aventura logo se transforma em uma reunião inesperada quando o ligeiro desvio que Woody faz o leva ao seu amigo há muito perdido, Bo Peep.</info>
+</item>
+
 <item>
 <title>[COLOR white]Toy Story 4[/COLOR] [COLOR yellow]- 2019[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1i7zrEvVpZdtmZmwhEnj7nZClYZtRIbq9/view?usp=drivesdk</link>
