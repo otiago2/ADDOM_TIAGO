@@ -1,23 +1,13 @@
-Filmes do Gdrive
-
 <item>
-<title>[COLOR green]-----[/COLOR][COLOR yellow]>>>>[/COLOR][COLOR white]A lenda de Tarzan[/COLOR][COLOR yellow]<<<<[/COLOR][COLOR green]-----[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B3m7SjtlBfn1YjlCVkZsTVZ2ZXc/view?usp=drivesdk</link>
-<thumbnail>https://cdn.ome.lt/9bkQM21i8-3cQnVYP6CSmfq3e0E=/200x0/smart/extras/capas/TarzanPoster.jpg</thumbnail>
-<fanart>http://4.bp.blogspot.com/-WriEjvsJ5Jw/V6DeWyzypGI/AAAAAAAAAWM/mToLyEJtFWgpX6Hqy-EC8ESHcc5sxiHIwCK4B/s1600/The-Legend-of-Tarzan-Wallpapers.jpg</fanart>
-<info>Releitura da clássica lenda de Tarzan, na qual um pequeno garoto órfão é criado na selva, e mais tarde tenta se adaptar à vida entre os humanos. Na década de 30, Tarzan, aclimatado à vida em Londres em conjunto com sua esposa Jane, é chamado para retornar à selva onde passou a maior parte da sua vida onde servirá como um emissário do Parlamento Britânico.</info>
-</item>
-
-<item>
-<title>[COLOR yellow]Maze Runner: A Cura Mortal[/COLOR] [COLOR white]- 720p[/COLOR]</title>
+<title>[COLOR white]Maze Runner: A Cura Mortal[/COLOR] [COLOR yellow]- 720p[/COLOR]</title>
 <link>https://www1014.hlsmp4.com/token=RJDg8rVDbJJLUYjrc-zMAg/1570206642/170.78.0.0/65/4/24/e111f267ac2c77f8f5d3423cd2fe1244-720p.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w185/fOGtuC11sy3L4o2vJDdJqISakxF.jpg</thumbnail>
-<fanart>IMAGENS DE FUNDO</fanart>
+<fanart>https://image.tmdb.org/t/p/w185/fOGtuC11sy3L4o2vJDdJqISakxF.jpg</fanart>
 <info>No terceiro filme da saga, Thomas (Dylan O’ Brien) embarca em uma missão para encontrar a cura para uma doença mortal e descobre que os planos da C.R.U.E.L podem trazer consequências catastróficas para a humanidade. Agora, ele tem que decidir se vai se entregar para a C.R.U.E.L e confiar na promessa da organização de que esse será seu último experimento.</info>
 </item>
 
 <item>
-<title>[COLOR yellow]Homem-Aranha: Longe de Casa[/COLOR] [COLOR white]- 1080p[/COLOR]</title>
+<title>[COLOR white]Homem-Aranha: Longe de Casa[/COLOR] [COLOR yellow]- 1080p[/COLOR]</title>
 <link>https://www1576.hlsmp4.com/token=2Rea2T0IdBYW75vW1YoEwg/1570207170/170.78.0.0/70/8/7b/03040c8766b22d53bde6f2ce206737b8-720p.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w185/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w185/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg</fanart>
