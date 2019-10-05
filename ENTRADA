@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[COLOR green]FILMES[/COLOR]</name>
+<name>[COLOR green][B]FILMES[/B][/COLOR]</name>
 <thumbnail>https://ia601405.us.archive.org/35/items/filmes_20191003_2311/Filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/otiago2/ADDOM_TIAGO/master/CATEGORIAFILMES</externallink>
 <fanart>https://ia801509.us.archive.org/15/items/fanart_20191003_2221/fanart.jpg</fanart>
@@ -17,7 +17,7 @@
 
 <channels>
 <channel>
-<name>[COLOR green]SÉRIES[/COLOR]</name>
+<name>[COLOR green][B]SÉRIES[/B][/COLOR]</name>
 <thumbnail>https://ia601405.us.archive.org/35/items/filmes_20191003_2311/S%C3%A9ries.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/otiago2/ADDOM_TIAGO/master/CATEGORIASERIES</externallink>
 <fanart>https://ia801509.us.archive.org/15/items/fanart_20191003_2221/fanart.jpg</fanart>
